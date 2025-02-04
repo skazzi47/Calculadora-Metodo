@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Repositórios GitHub\Calculadora-Metodo\Calculadora-Metodo\obj\Debug\net8.0\Calculadora-Metodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Repositórios GitHub\Calculadora-Metodo\Calculadora-Metodo\obj\Debug\net8.0\Calculadora-Metodo.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Repositórios GitHub\Calculadora-Metodo\Calculadora-Metodo\obj\Debug\net8.0\Calculadora-Metodo.AssemblyInfo.cs
+C:\Users\Guilherme\Repositórios GitHub\Calculadora-Metodo\Calculadora-Metodo\obj\Debug\net8.0\Calculadora-Metodo.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Repositórios GitHub\Calculadora-Metodo\Calculadora-Metodo\obj\Debug\net8.0\Calculadora-Metodo.sourcelink.json
+C:\Users\Guilherme\Repositórios GitHub\Calculadora-Metodo\Calculadora-Metodo\bin\Debug\net8.0\Calculadora-Metodo.exe
+C:\Users\Guilherme\Repositórios GitHub\Calculadora-Metodo\Calculadora-Metodo\bin\Debug\net8.0\Calculadora-Metodo.deps.json
+C:\Users\Guilherme\Repositórios GitHub\Calculadora-Metodo\Calculadora-Metodo\bin\Debug\net8.0\Calculadora-Metodo.runtimeconfig.json
+C:\Users\Guilherme\Repositórios GitHub\Calculadora-Metodo\Calculadora-Metodo\bin\Debug\net8.0\Calculadora-Metodo.dll
+C:\Users\Guilherme\Repositórios GitHub\Calculadora-Metodo\Calculadora-Metodo\bin\Debug\net8.0\Calculadora-Metodo.pdb
+C:\Users\Guilherme\Repositórios GitHub\Calculadora-Metodo\Calculadora-Metodo\obj\Debug\net8.0\Calculadora-Metodo.dll
+C:\Users\Guilherme\Repositórios GitHub\Calculadora-Metodo\Calculadora-Metodo\obj\Debug\net8.0\refint\Calculadora-Metodo.dll
+C:\Users\Guilherme\Repositórios GitHub\Calculadora-Metodo\Calculadora-Metodo\obj\Debug\net8.0\Calculadora-Metodo.pdb
+C:\Users\Guilherme\Repositórios GitHub\Calculadora-Metodo\Calculadora-Metodo\obj\Debug\net8.0\Calculadora-Metodo.genruntimeconfig.cache
+C:\Users\Guilherme\Repositórios GitHub\Calculadora-Metodo\Calculadora-Metodo\obj\Debug\net8.0\ref\Calculadora-Metodo.dll
