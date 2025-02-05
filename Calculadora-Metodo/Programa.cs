@@ -1,3 +1,7 @@
 ﻿using MensagemInicio;
 
-MensagemInicio.Inicializacao.Menu();
+string? operador;
+do
+{
+    operador = MensagemInicio.Inicializacao.Menu();
+}while(operador == null);

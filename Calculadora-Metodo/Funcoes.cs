@@ -1,8 +1,11 @@
+using System.Runtime.InteropServices;
+using System.Security.Cryptography;
+
 namespace MensagemInicio
 {
     class Inicializacao
     {
-        public static char Menu()
+        public static string? Menu()
         {
             Console.WriteLine("\t|---Calculadora---|\t");
             Console.WriteLine("Escolha uma das seguintes operações:");
@@ -11,9 +14,18 @@ namespace MensagemInicio
             Console.WriteLine("(*) Multiplicação");
             Console.WriteLine("(/) Divisão");
             Console.Write("Digite o símbolo da operação desejada.\t");
-            char escolha = Convert.ToChar(Console.ReadLine());
-            return escolha;
-
+            string? escolha = Console.ReadLine();
+            if(escolha == "+" || escolha == "-"  || escolha == "*"  || escolha == "/" )
+            {
+                return escolha;
+            }else
+            {
+                Console.Clear();
+                Console.WriteLine("\nValor inválido");
+                Thread.Sleep(1000);
+                Console.Clear();
+                return null;
+            }
         }
     }
 }
