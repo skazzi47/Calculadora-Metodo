@@ -7,7 +7,7 @@ namespace MensagemInicio
     {
         public static string? Menu()
         {
-            Console.WriteLine("\t|---Calculadora---|\t");
+            Console.WriteLine("\n\t|---Calculadora---|\t\n");
             Console.WriteLine("Escolha uma das seguintes operações:");
             Console.WriteLine("(+) Adição");
             Console.WriteLine("(-) Subtração");
@@ -31,47 +31,90 @@ namespace MensagemInicio
 }
 namespace Requisicao
 {
-    class Valores
+    class De
     {
-        public static void ParaConta(char escolha)
+        public static void Numeros()
         {
-            Console.WriteLine("Informe 2 numeros para realizar a operação: ");
-            Console.Write("Informe o 1º número:");
-            double n1 = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Informe o 2º número:");
-            double n2 = Convert.ToDouble(Console.ReadLine());
-       
+            Console.WriteLine("Informe o 1º número:");
+            int n1 = Console.ReadLine();
+        }
+    }
+}
+namespace A
+{
+    class D
+    {
+        public static void C()
+        {
+            Console.WriteLine($"A soma de {x} + {y} é igual à {resultado}");
+            Console.Write("Programa Finalizado");
+            Thread.Sleep(1000);
+            Console.Write(".");
+            Thread.Sleep(1000);
+            Console.Write(".");
+            Thread.Sleep(1000);
+            Console.Write(".");
+            Thread.Sleep(1000);
+        }
+    }
+    
+}
 
-            switch(escolha)
-            {
-                case '+':
-                    Console.WriteLine($"Resultado: {n1 + n2}");
-                    break;
+namespace S
+{
+    class U
+    {
+        public static void B()
+        {
+            Console.WriteLine($"A subtração de {x} - {y} é igual à {resultado}");
+            Console.Write("Programa Finalizado");
+            Thread.Sleep(1000);
+            Console.Write(".");
+            Thread.Sleep(1000);
+            Console.Write(".");
+            Thread.Sleep(1000);
+            Console.Write(".");
+            Thread.Sleep(1000);
+        }
+    }
+    
+}
 
-                case '-':
-                    Console.WriteLine($"Resultado: {n1 - n2}");
-                    break;
+namespace M
+{
+    class U
+    {
+        public static void L()
+        {
+            Console.WriteLine($"A multiplicação de {x} * {y} é igual à {resultado}");
+            Console.Write("Programa Finalizado");
+            Thread.Sleep(1000);
+            Console.Write(".");
+            Thread.Sleep(1000);
+            Console.Write(".");
+            Thread.Sleep(1000);
+            Console.Write(".");
+            Thread.Sleep(1000);
+        }
+    }
+    
+}
 
-                case '*':
-                    Console.WriteLine($"Resultado: {n1 * n2}");
-                    break;
-
-                case '/':
-                    // Verifica se o divisor é diferente de zero
-                    if (n2 != 0)
-                    {
-                        Console.WriteLine($"Resultado: {n1 / n2}");
-                    }
-                    else
-                    {
-                        Console.WriteLine("Erro: Não é possível dividir por zero.");
-                    }
-                    break;
-
-                default:
-                    Console.WriteLine("Operação inválida. Por favor, escolha uma operação válida (+, -, *, /).");
-                    break;
-            }
+namespace D
+{
+    class I
+    {
+        public static void V()
+        {
+            Console.WriteLine($"A divisão de {x} / {y} é igual à {resultado}");
+            Console.Write("Programa Finalizado");
+            Thread.Sleep(1000);
+            Console.Write(".");
+            Thread.Sleep(1000);
+            Console.Write(".");
+            Thread.Sleep(1000);
+            Console.Write(".");
+            Thread.Sleep(1000);
         }
     }
 }

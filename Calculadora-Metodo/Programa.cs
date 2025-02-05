@@ -4,4 +4,5 @@ string? operador;
 do
 {
     operador = MensagemInicio.Inicializacao.Menu();
-}while(operador == null);
+}
+while(operador == null);
