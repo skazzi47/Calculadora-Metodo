@@ -1,8 +1,5 @@
-﻿using MensagemInicio;
+﻿using Mensagem;
 
-string? operador;
-do
-{
-    operador = MensagemInicio.Inicializacao.Menu();
-}
-while(operador == null);
+Mensagem.Inicializacao.Menu();
+
+Requisicao.De.Numeros();

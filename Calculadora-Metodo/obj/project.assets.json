@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\Projetos C# - GM\\Calculadora-Metodo\\Calculadora-Metodo\\Calculadora-Metodo.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\RepoGM\\Calculadora-Metodo\\Calculadora-Metodo\\Calculadora-Metodo.csproj",
       "projectName": "Calculadora-Metodo",
-      "projectPath": "C:\\Users\\Alunos\\Projetos C# - GM\\Calculadora-Metodo\\Calculadora-Metodo\\Calculadora-Metodo.csproj",
+      "projectPath": "C:\\Users\\Alunos\\RepoGM\\Calculadora-Metodo\\Calculadora-Metodo\\Calculadora-Metodo.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\Projetos C# - GM\\Calculadora-Metodo\\Calculadora-Metodo\\obj\\",
+      "outputPath": "C:\\Users\\Alunos\\RepoGM\\Calculadora-Metodo\\Calculadora-Metodo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
